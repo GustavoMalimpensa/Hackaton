@@ -4,3 +4,5 @@ other marketplaces with low operating costs.
 
 We manipulated Binary Files in C from a marktplace and erp, simulating a sales, registration and inventory system at the command prompt, centralizing the
 products and sales within a platform that will skyrocket to other platforms.
+
+we won in second place.
